@@ -16,6 +16,8 @@ It is expected that you keep this format strictly, since we depend on it in our 
 ### Changed
 
 - New design for `SBBSwitch`
+- Simpler implementation of the `SBBTabBar`.
+- `SBBTabBar` now respects the `SafeArea` for the `systemNavigationBar`.
 
 ### Deprecated
 
